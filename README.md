@@ -9,7 +9,7 @@ In this challenge, you'll be provided with a network map containing incomplete i
 
 ### Network Map
 
-
+![Network Map](./Valid_Diagram.jpg)
 
 ### Challenge
 
